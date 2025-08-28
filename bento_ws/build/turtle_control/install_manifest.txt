@@ -1,0 +1,15 @@
+/ros_ws/bento_ws/install/turtle_control/share/ament_index/resource_index/package_run_dependencies/turtle_control
+/ros_ws/bento_ws/install/turtle_control/share/ament_index/resource_index/parent_prefix_path/turtle_control
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/environment/ament_prefix_path.sh
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/environment/ament_prefix_path.dsv
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/environment/path.sh
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/environment/path.dsv
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/local_setup.bash
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/local_setup.sh
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/local_setup.zsh
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/local_setup.dsv
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/package.dsv
+/ros_ws/bento_ws/install/turtle_control/share/ament_index/resource_index/packages/turtle_control
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/cmake/turtle_controlConfig.cmake
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/cmake/turtle_controlConfig-version.cmake
+/ros_ws/bento_ws/install/turtle_control/share/turtle_control/package.xml

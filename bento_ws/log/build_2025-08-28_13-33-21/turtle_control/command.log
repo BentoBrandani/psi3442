@@ -1,0 +1,6 @@
+Invoking command in '/ros_ws/bento_ws/build/turtle_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /ros_ws/bento_ws/turtle_control -DCMAKE_INSTALL_PREFIX=/ros_ws/bento_ws/install/turtle_control
+Invoked command in '/ros_ws/bento_ws/build/turtle_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /ros_ws/bento_ws/turtle_control -DCMAKE_INSTALL_PREFIX=/ros_ws/bento_ws/install/turtle_control
+Invoking command in '/ros_ws/bento_ws/build/turtle_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /ros_ws/bento_ws/build/turtle_control -- -j12 -l12
+Invoked command in '/ros_ws/bento_ws/build/turtle_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /ros_ws/bento_ws/build/turtle_control -- -j12 -l12
+Invoking command in '/ros_ws/bento_ws/build/turtle_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /ros_ws/bento_ws/build/turtle_control
+Invoked command in '/ros_ws/bento_ws/build/turtle_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /ros_ws/bento_ws/build/turtle_control
